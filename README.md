@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KorawichManeeratana&show_icons=true&locale=en" alt="best" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KorawichManeeratana&" alt="best" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Best&" alt="best" /></p>
